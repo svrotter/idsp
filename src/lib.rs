@@ -11,6 +11,7 @@ pub use complex::*;
 mod cossin;
 pub use cossin::*;
 pub mod iir;
+pub mod iir6;
 pub mod iir_int;
 mod lockin;
 pub use lockin::*;
